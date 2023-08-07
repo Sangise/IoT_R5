@@ -9,6 +9,6 @@
 AD変換のPythonコードは[こちら]()
 ## 第３回
 ### I2Cを使って温度情報を取得しよう＆Ambientにデータを送信してグラフ化しよう
-研修資料は[こちら]（）
+研修資料は[こちら](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FSangise%2FIoT_R5%2Fmain%2F%25E7%25AC%25AC3%25E5%259B%259E%2F%25E7%25AC%25AC3%25E5%259B%259E%25E7%25A0%2594%25E4%25BF%25AE%25E8%25B3%2587%25E6%2596%2599%25EF%25BC%2588R5%25EF%25BC%2589_%25E8%25BB%25BD%25E9%2587%258F%25E7%2589%2588.pptx&wdOrigin=BROWSELINK)
 I2C通信による温度情報の取得コードは[こちら]()
 Ambientにデータを送信するコードは[こちら]()
